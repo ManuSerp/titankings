@@ -1,0 +1,31 @@
+ymir_blood = {
+	index = 20000 # A unique numerical identifier for the trait
+	education = no
+    inherit_chance = 100
+    birth = 0
+    random_creation = 0
+
+
+
+
+    # a verif la suite
+    # ajouter name desc 
+    icon = {
+	first_valid = {
+		triggered_desc = {
+			trigger = { NOT = { exists = this } }
+			desc = "gfx/interface/icons/traits/diligent.dds"
+		}
+		
+		triggered_desc = {
+			trigger = { gold > 1000 }
+			desc = "gfx/interface/icons/traits/diligent.dds"
+		}
+		
+		desc = "gfx/interface/icons/traits/deceitful.dds"
+	}
+}
+
+	
+        
+}
