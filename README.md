@@ -17,6 +17,8 @@ Allow the founding to manipulate blood ( add or remove traits), to manipualte me
 
 Allow founding power only to people blood related to the first owner.
 
+decision to be the first owner of the power of earth.
+
 ### bonus
 
 I'd like to implement pure titan, with the possibility to transform people with ymit blood in pure titan ( prisonner or on free will) and have roam maybe in men at arms
