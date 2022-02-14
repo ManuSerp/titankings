@@ -8,6 +8,9 @@ make ymir blood trait : Done
 
 Make the 9 titan traits
 Make system to pass the titan, either by free will or not, ( prisonner.... )
+if titan traits are disponible on birth of a ymir son it will automically get it. Allowing the spawn of the 9 titans ans th possibility for a family to lose it
+i will have to code the ia to try as much as possible to preserve their titan in their family
+
 Make curse of ymir
 
 Make titan, and founding lifestyle
